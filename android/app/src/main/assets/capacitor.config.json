@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sqlite-capacitor",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
